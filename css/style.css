@@ -58,7 +58,7 @@ body {
   display: inline-block;
   width: 130px;
   height: 60px;
-  background-image: url(../img/logo.png);
+  background-image: url(../img/logo.webp);
   background-size: 100% auto;
   text-indent: -9999px;
 }
@@ -247,7 +247,7 @@ body {
   display: none;
 }
 .f_logo {
-  background-image: url(../img/logo.png);
+  background-image: url(../img/logo.webp);
   background-size: 100% auto;
   width: 110px;
   height: 40px;
@@ -322,13 +322,13 @@ body {
   text-indent: -9999px;
 }
 .youtube a {
-  background-image: url(../img/youtube.png);
+  background-image: url(../img/youtube.webp);
 }
 .facebook a {
-  background-image: url(../img/facebook.png);
+  background-image: url(../img/facebook.webp);
 }
 .insta a {
-  background-image: url(../img/insta.png);
+  background-image: url(../img/insta.webp);
 }
 .r2 {
   display: flex;
@@ -354,7 +354,7 @@ body {
 .r3_mark {
   width: 30px;
   height: 30px;
-  background-image: url(../img/mark.png);
+  background-image: url(../img/mark.webp);
   background-size: 100% auto;
   text-indent: -9999px;
   margin: 0 10px 0 0;
